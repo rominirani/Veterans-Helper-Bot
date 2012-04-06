@@ -1,0 +1,20 @@
+ABOUT
+*****
+Veterans Helper Bot is an Automated Google Talk Bot that will help Veterans through some of their common tasks.
+
+This is my submission for the LinkedIn Veterans Hackday 2011.The bot is powered by APIs provided by National Resource Center APIs.
+
+The bot currently does the following:
+
+* Get Help Line Numbers
+* Get Current Vet Jobs by keywords and in and around your location
+* Look up details for any Military Operation Code (MOC)
+* And in the future, much more.... all under one umbrella
+
+Building the Project
+********************
+This is a Google App Engine project. You will need to import the project into your Eclipse Workspace and add the necessary App Engine JAR files.
+
+Web Site
+********
+The Veterans Helper Bot is live at http://veteranshelperbot.appspot.com. Refer to http://veteranshelperbot.appspot.com/2minuteguide.html to get started.
